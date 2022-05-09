@@ -1,10 +1,8 @@
-# pixijs vite shader template
+# ascii shader
 
-⚡️A template for making custom filters and/or shaders.
+⚡️A template for playing with shaders in the browser.
 
-⚡️Created with Pixi.js, Vite, and StackBlitz. 
+⚡️Created with Pixi.js, Vite, and WebGL2. 
 
-[⚡️Deployed On GitHub-Pages](https://github.com/modster/pixijs-vite-shader-template)
-
-[⚡️Deployed on StackBlitz](https://stackblitz.com/edit/pixijs-vite-shader-template)
+[⚡️Deployed On GitHub-Pages](https://greeffer.com/ascii-shader)
 
